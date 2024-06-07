@@ -703,7 +703,7 @@ var app = (function () {
             Q(a.$$.fragment),
             (l = x()),
             (u = w("h1")),
-            (u.textContent = "Audible"),
+            (u.textContent = "Tunedle"),
             (c = x()),
             (d = w("div")),
             Q(h.$$.fragment),
@@ -1234,13 +1234,13 @@ var app = (function () {
     let r,
       { userGuesses: s } = t,
       { maxAttempts: i } = t,
-      { currentAudible: o } = t,
+      { currentTunedle: o } = t,
       { todaysGame: a } = t;
     return (
       (e.$$set = (e) => {
         "userGuesses" in e && n(0, (s = e.userGuesses)),
           "maxAttempts" in e && n(4, (i = e.maxAttempts)),
-          "currentAudible" in e && n(1, (o = e.currentAudible)),
+          "currentTunedle" in e && n(1, (o = e.currentTunedle)),
           "todaysGame" in e && n(2, (a = e.todaysGame));
       }),
       (e.$$.update = () => {
@@ -1256,7 +1256,7 @@ var app = (function () {
         re(this, e, He, Ne, i, {
           userGuesses: 0,
           maxAttempts: 4,
-          currentAudible: 1,
+          currentTunedle: 1,
           todaysGame: 2,
         });
     }
@@ -2173,7 +2173,7 @@ var app = (function () {
     let r, s, i, o, a, l, u;
     const c = A();
     let { currentAttempt: d } = t,
-      { currentAudible: h } = t,
+      { currentTunedle: h } = t,
       { config: f } = t,
       { trackDuration: m = 0 } = t,
       { gameState: p } = t,
@@ -2251,7 +2251,7 @@ var app = (function () {
     return (
       (e.$$set = (e) => {
         "currentAttempt" in e && n(0, (d = e.currentAttempt)),
-          "currentAudible" in e && n(1, (h = e.currentAudible)),
+          "currentTunedle" in e && n(1, (h = e.currentTunedle)),
           "config" in e && n(2, (f = e.config)),
           "trackDuration" in e && n(3, (m = e.trackDuration)),
           "gameState" in e && n(4, (p = e.gameState));
@@ -2329,7 +2329,7 @@ var app = (function () {
           i,
           {
             currentAttempt: 0,
-            currentAudible: 1,
+            currentTunedle: 1,
             config: 2,
             trackDuration: 3,
             gameState: 4,
@@ -4223,7 +4223,7 @@ var app = (function () {
       s = (e[0].length * e[1].attemptInterval) / 1e3 + "";
     return {
       c() {
-        (t = _("You got today's Audible within the first ")),
+        (t = _("You got today's Tunedle within the first ")),
           (n = _(s)),
           (r = _(" seconds."));
       },
@@ -4250,7 +4250,7 @@ var app = (function () {
       a = e[1].attemptIntervalAlt[e[0].length - 1] / 1e3 > 1 ? "s" : "";
     return {
       c() {
-        (t = _("You got today's Audible within ")),
+        (t = _("You got today's Tunedle within ")),
           (n = _(o)),
           (r = _("\n                second")),
           (s = _(a)),
@@ -4280,7 +4280,7 @@ var app = (function () {
     let n;
     return {
       c() {
-        n = _("You didn't get today's Audible. Nice try!");
+        n = _("You didn't get today's Tunedle. Nice try!");
       },
       m(e, t) {
         g(e, n, t);
@@ -4394,7 +4394,7 @@ var app = (function () {
   }
   function fn(e, t, n) {
     let { userGuesses: r } = t,
-      { currentAudible: s } = t,
+      { currentTunedle: s } = t,
       { config: i } = t,
       { hasFinished: o } = t,
       { gotCorrect: a } = t,
@@ -4405,7 +4405,7 @@ var app = (function () {
       A(),
       (e.$$set = (e) => {
         "userGuesses" in e && n(0, (r = e.userGuesses)),
-          "currentAudible" in e && n(7, (s = e.currentAudible)),
+          "currentTunedle" in e && n(7, (s = e.currentTunedle)),
           "config" in e && n(1, (i = e.config)),
           "hasFinished" in e && n(2, (o = e.hasFinished)),
           "gotCorrect" in e && n(8, (a = e.gotCorrect)),
@@ -4420,7 +4420,7 @@ var app = (function () {
         u,
         c,
         () => {
-          let e = "Audible -",
+          let e = "Tunedle -",
             t = "";
           a
             ? r.length < i.maxAttempts / 3
@@ -4480,7 +4480,7 @@ var app = (function () {
       super(),
         re(this, e, fn, hn, i, {
           userGuesses: 0,
-          currentAudible: 7,
+          currentTunedle: 7,
           config: 1,
           hasFinished: 2,
           gotCorrect: 8,
@@ -8854,7 +8854,7 @@ var app = (function () {
         props: {
           userGuesses: e[6],
           maxAttempts: Vt.maxAttempts,
-          currentAudible: e[2],
+          currentTunedle: e[2],
           todaysGame: e[5],
         },
       })),
@@ -8862,7 +8862,7 @@ var app = (function () {
         props: {
           config: Vt,
           userGuesses: e[6],
-          currentAudible: e[2],
+          currentTunedle: e[2],
           hasFinished: e[5].hasFinished,
           gotCorrect: e[5].gotCorrect,
           isPrime: e[8].isPrime,
@@ -8872,7 +8872,7 @@ var app = (function () {
     let N = {
       config: Vt,
       gameState: e[8],
-      currentAudible: e[2],
+      currentTunedle: e[2],
       trackDuration: e[2].duration,
       currentAttempt: e[6].length + 1,
     };
@@ -8908,7 +8908,7 @@ var app = (function () {
           Q(Y.$$.fragment),
           (C = x()),
           H && H.c(),
-          (An.title = "Audible"),
+          (An.title = "Tunedle"),
           M(t, "name", "description"),
           M(
             t,
@@ -8970,12 +8970,12 @@ var app = (function () {
             K());
         const n = {};
         64 & t[0] && (n.userGuesses = e[6]),
-          4 & t[0] && (n.currentAudible = e[2]),
+          4 & t[0] && (n.currentTunedle = e[2]),
           32 & t[0] && (n.todaysGame = e[5]),
           _.$set(n);
         const r = {};
         64 & t[0] && (r.userGuesses = e[6]),
-          4 & t[0] && (r.currentAudible = e[2]),
+          4 & t[0] && (r.currentTunedle = e[2]),
           32 & t[0] && (r.hasFinished = e[5].hasFinished),
           32 & t[0] && (r.gotCorrect = e[5].gotCorrect),
           256 & t[0] && (r.isPrime = e[8].isPrime),
@@ -8983,7 +8983,7 @@ var app = (function () {
           $.$set(r);
         const s = {};
         256 & t[0] && (s.gameState = e[8]),
-          4 & t[0] && (s.currentAudible = e[2]),
+          4 & t[0] && (s.currentTunedle = e[2]),
           4 & t[0] && (s.trackDuration = e[2].duration),
           64 & t[0] && (s.currentAttempt = e[6].length + 1),
           Y.$set(s),
