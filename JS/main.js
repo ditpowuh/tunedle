@@ -9259,3 +9259,5 @@ var app = (function () {
     props: {},
   });
 })();
+
+document.getElementsByClassName("px-2 py-2 uppercase tracking-widest border-none flex items-center font-semibold text-sm svelte-1r54uzk")[1].style = "display: none;";

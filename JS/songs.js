@@ -396,6 +396,7 @@ songs = [
   },
 ];
 originalLength = songs.length;
+shuffle(songs);
 
 // Template for a song
 var template = [
