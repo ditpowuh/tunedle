@@ -4315,7 +4315,7 @@ var app = (function () {
     let t, n, r, s, i, o, a;
     return {
       c() {
-        (t = _("Share\n                ")),
+        (t = _("Copy Results as Emojis\n                ")),
           (n = k("svg")),
           (r = k("circle")),
           (s = k("circle")),
