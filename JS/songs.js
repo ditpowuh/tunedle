@@ -231,16 +231,12 @@ songs = [
     answer: "joon - waiting for free",
   },
   {
-    url: "https://soundcloud.com/joonqt/cynical-1",
+    url: "https://soundcloud.com/joonqt/cynical",
     answer: "joon - cynical",
   },
   {
     url: "https://soundcloud.com/joonqt/company-new-mix",
     answer: "joon - company",
-  },
-  {
-    url: "https://soundcloud.com/joonqt/cynical",
-    answer: "joon - song",
   },
   {
     url: "https://soundcloud.com/joonqt/falling-for-you-1",
