@@ -3884,7 +3884,7 @@ var app = (function () {
       "You failed.", // FAILED
       "First try!", // First try
       "Nice!",
-      "3rd time was the charm.",
+      "3rd time's the charm.",
       "Good work.",
       "Nice work!",
       "That was close!", // Sixth try
@@ -4420,7 +4420,7 @@ var app = (function () {
         u,
         c,
         () => {
-          let e = "Tunedle -",
+          let e = "🎵 Tunedle 🎵",
             t = "";
           a
             ? r.length < i.maxAttempts / 3
@@ -4437,7 +4437,7 @@ var app = (function () {
                 ? (t += "⬛️")
                 : (t += "🟥")
               : (t += "⬜️");
-          let o = e + "\n\n" + t + "\n";
+          let o = e + "\n\n" + t;
           if (
             !navigator.share ||
             !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
