@@ -1,3 +1,4 @@
+const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
 const rng = new Math.seedrandom(new Date().toLocaleDateString());
 
 function shuffle(array) {
@@ -12,3 +13,5 @@ function shuffle(array) {
 function reset() {
   localStorage.clear();
 }
+
+searchOptions = isMobile ? 9 : 15; // Original is 6

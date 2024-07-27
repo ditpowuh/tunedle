@@ -3306,7 +3306,7 @@ var app = (function () {
           threshold: 1,
           wrapper: !1,
           resultsList: {
-            maxResults: 6,
+            maxResults: searchOptions,
           },
           diacritics: !0,
           noresults: !0,
