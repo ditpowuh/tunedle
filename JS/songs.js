@@ -27,6 +27,10 @@ songs = [
     answer: "bixby - are you sleeping alone again?"
   },
   {
+    url: "https://soundcloud.com/ihatebixby/desire",
+    answer: "bixby - desire"
+  },
+  {
     url: "https://soundcloud.com/tsuyunoshi/insomnia",
     answer: "tsuyunoshi - insomnia"
   },
@@ -120,51 +124,51 @@ songs = [
   },
   {
     url: "https://soundcloud.com/starfall/never-lasts",
-    answer: "starfall - never lasts",
+    answer: "starfall - never lasts"
   },
   {
     url: "https://soundcloud.com/starfall/missing-u",
-    answer: "starfall - missing u",
+    answer: "starfall - missing u"
   },
   {
     url: "https://soundcloud.com/starfall/memories",
-    answer: "starfall - memories",
+    answer: "starfall - memories"
   },
   {
     url: "https://soundcloud.com/starfall/tied-up",
-    answer: "starfall - tied up",
+    answer: "starfall - tied up"
   },
   {
     url: "https://soundcloud.com/starfall/drop-dead-1",
-    answer: "starfall - drop dead",
+    answer: "starfall - drop dead"
   },
   {
     url: "https://soundcloud.com/starfall/deja-vu-1",
-    answer: "starfall - deja vu",
+    answer: "starfall - deja vu"
   },
   {
     url: "https://soundcloud.com/starfall/close-your-eyes-1",
-    answer: "starfall - close your eyes",
+    answer: "starfall - close your eyes"
   },
   {
     url: "https://soundcloud.com/starfall/lose-myself",
-    answer: "starfall - lose myself",
+    answer: "starfall - lose myself"
   },
   {
     url: "https://soundcloud.com/starfall/one-call",
-    answer: "starfall - one call",
+    answer: "starfall - one call"
   },
   {
     url: "https://soundcloud.com/starfall/cigarettes-3",
-    answer: "starfall - cigarettes",
+    answer: "starfall - cigarettes"
   },
   {
     url: "https://soundcloud.com/starfall/burn-my-tongue-1",
-    answer: "starfall - burn my tongue",
+    answer: "starfall - burn my tongue"
   },
   {
     url: "https://soundcloud.com/starfall/intentions-1",
-    answer: "starfall - intentions",
+    answer: "starfall - intentions"
   },
   {
     url: "https://soundcloud.com/starfall/cruel",
@@ -172,224 +176,232 @@ songs = [
   },
   {
     url: "https://soundcloud.com/starfall/bitter-2",
-    answer: "starfall - bitter",
+    answer: "starfall - bitter"
   },
   {
     url: "https://soundcloud.com/starfall/feelings-1",
-    answer: "starfall - feelings",
+    answer: "starfall - feelings"
   },
   {
     url: "https://soundcloud.com/joonqt/i-dont-wanna-mess-you-up",
-    answer: "joon - i dont wanna mess you up",
+    answer: "joon - i dont wanna mess you up"
   },
   {
     url: "https://soundcloud.com/joonqt/by-yourself",
-    answer: "joon - by yourself",
+    answer: "joon - by yourself"
   },
   {
     url: "https://soundcloud.com/joonqt/wanna-be-friends-1",
-    answer: "joon - wanna be friends",
+    answer: "joon - wanna be friends"
   },
   {
     url: "https://soundcloud.com/joonqt/changed-w-starfall",
-    answer: "joon - chaanged",
+    answer: "joon - chaanged"
   },
   {
     url: "https://soundcloud.com/joonqt/flawless",
-    answer: "joon - flawless",
+    answer: "joon - flawless"
   },
   {
     url: "https://soundcloud.com/joonqt/idk-w-nxrthstar",
-    answer: "joon - idk",
+    answer: "joon - idk"
   },
   {
     url: "https://soundcloud.com/joonqt/talk-w-starfall-joshwa",
-    answer: "joon - talk!",
+    answer: "joon - talk!"
   },
   {
     url: "https://soundcloud.com/joonqt/stuck-with-you-w-4cf",
-    answer: "joon - stuck with you",
+    answer: "joon - stuck with you"
   },
   {
     url: "https://soundcloud.com/joonqt/remedy-joshwa",
-    answer: "joon - remedy",
+    answer: "joon - remedy"
   },
   {
     url: "https://soundcloud.com/joonqt/last-night",
-    answer: "joon - last night",
+    answer: "joon - last night"
   },
   {
     url: "https://soundcloud.com/joonqt/hypocritical-with-starfall-joshwa",
-    answer: "joon - hypocritical",
+    answer: "joon - hypocritical"
   },
   {
     url: "https://soundcloud.com/joonqt/joon-bixby-feb-12-v2",
-    answer: "joon - by my side",
+    answer: "joon - by my side"
   },
   {
     url: "https://soundcloud.com/joonqt/waiting-for-free-new-final-final",
-    answer: "joon - waiting for free",
+    answer: "joon - waiting for free"
   },
   {
     url: "https://soundcloud.com/joonqt/cynical",
-    answer: "joon - cynical",
+    answer: "joon - cynical"
   },
   {
     url: "https://soundcloud.com/joonqt/company-new-mix",
-    answer: "joon - company",
+    answer: "joon - company"
   },
   {
     url: "https://soundcloud.com/joonqt/falling-for-you-1",
-    answer: "joon - falling for you",
+    answer: "joon - falling for you"
   },
   {
     url: "https://soundcloud.com/joonqt/west-coast",
-    answer: "joon - west coast",
+    answer: "joon - west coast"
   },
   {
     url: "https://soundcloud.com/joonqt/seasons",
-    answer: "joon - seasons",
+    answer: "joon - seasons"
   },
   {
     url: "https://soundcloud.com/asumuh/infinity",
-    answer: "asumuh - infinity",
+    answer: "asumuh - infinity"
   },
   {
     url: "https://soundcloud.com/asumuh/happy-exists",
-    answer: "asumuh - happy exists",
+    answer: "asumuh - happy exists"
   },
   {
     url: "https://soundcloud.com/asumuh/we-exist-here",
-    answer: "asumuh - we exist here",
+    answer: "asumuh - we exist here"
   },
   {
     url: "https://soundcloud.com/riensu/you-got-me",
-    answer: "riensu - you got me",
+    answer: "riensu - you got me"
   },
   {
     url: "https://soundcloud.com/riensu/take-my-hand",
-    answer: "riensu - take my hand",
+    answer: "riensu - take my hand"
   },
   {
     url: "https://soundcloud.com/riensu/flowers-1",
-    answer: "riensu - flowers",
+    answer: "riensu - flowers"
   },
   {
     url: "https://soundcloud.com/jades714/dearyou",
-    answer: "jades / otuka - dear you",
+    answer: "jades / otuka - dear you"
   },
   {
     url: "https://soundcloud.com/jades714/apathetic",
-    answer: "jades / otuka - apathetic",
+    answer: "jades / otuka - apathetic"
   },
   {
     url: "https://soundcloud.com/jades714/complicated",
-    answer: "jades / otuka - complicated",
+    answer: "jades / otuka - complicated"
   },
   {
     url: "https://soundcloud.com/jades714/mirror",
-    answer: "jades / otuka - mirror",
+    answer: "jades / otuka - mirror"
   },
   {
     url: "https://soundcloud.com/otukaa/neverenough",
-    answer: "jades / otuka - never enough",
+    answer: "jades / otuka - never enough"
   },
   {
     url: "https://soundcloud.com/user-571553266-697744289/2am_final_final",
-    answer: "asianblonde. - 2am",
+    answer: "asianblonde. - 2am"
   },
   {
     url: "https://soundcloud.com/user-571553266-697744289/bby-feat-nimstarr",
-    answer: "asianblonde. - bby",
+    answer: "asianblonde. - bby"
   },
   {
     url: "https://soundcloud.com/sc0ttryan/loser-4cf-tsuyunoshi-delto",
-    answer: "sc0ttryan - loser",
+    answer: "sc0ttryan - loser"
   },
   {
     url: "https://soundcloud.com/sc0ttryan/1heaven",
-    answer: "sc0ttryan - heaven",
+    answer: "sc0ttryan - heaven"
   },
   {
     url: "https://soundcloud.com/dead4cf/run",
-    answer: "4cf - run",
+    answer: "4cf - run"
   },
   {
     url: "https://soundcloud.com/dead4cf/jade-1",
-    answer: "4cf - jade",
+    answer: "4cf - jade"
   },
   {
     url: "https://soundcloud.com/dpf617/starr",
-    answer: "dpf - star",
+    answer: "dpf - star"
   },
   {
     url: "https://soundcloud.com/dpf617/ready-for-loveee",
-    answer: "dpf - ready for love",
+    answer: "dpf - ready for love"
   },
   {
     url: "https://soundcloud.com/dpf617/home",
-    answer: "dpf - home",
+    answer: "dpf - home"
   },
   {
     url: "https://soundcloud.com/demxntia/demxntia-date-night",
-    answer: "demxntia - date night",
+    answer: "demxntia - date night"
   },
   {
     url: "https://soundcloud.com/demxntia/alright",
-    answer: "demxntia - it's alright",
+    answer: "demxntia - it's alright"
   },
   {
     url: "https://soundcloud.com/demxntia/demxntia-keep-smiling",
-    answer: "demxntia - keep smiling",
+    answer: "demxntia - keep smiling"
   },
   {
     url: "https://soundcloud.com/demxntia/gaveitmyall",
-    answer: "demxntia - gave it my all",
+    answer: "demxntia - gave it my all"
   },
   {
     url: "https://soundcloud.com/demxntia/demxntia-fall-in-love-again",
-    answer: "demxntia - fall in love again",
+    answer: "demxntia - fall in love again"
   },
   {
     url: "https://soundcloud.com/demxntia/demxntia-date-night",
-    answer: "demxntia - date night",
+    answer: "demxntia - date night"
   },
   {
     url: "https://soundcloud.com/demxntia/demxntia-autumn",
-    answer: "demxntia - autumn",
+    answer: "demxntia - autumn"
+  },
+  {
+    url: "https://soundcloud.com/demxntia/demxntia-dont-make-me-choose",
+    answer: "demxntia - don't make me choose"
   },
   {
     url: "https://soundcloud.com/patchymate/its-my-fault-you-let-me-go",
-    answer: "patchymate - its my fault you let me go",
+    answer: "patchymate - its my fault you let me go"
   },
   {
     url: "https://soundcloud.com/patchymate/dream-analysis",
-    answer: "patchymate - dream analysis",
+    answer: "patchymate - dream analysis"
   },
   {
     url: "https://soundcloud.com/patchymate/i-just-wanna-clear-something-up",
-    answer: "patchymate - i just wanna clear something up",
+    answer: "patchymate - i just wanna clear something up"
   },
   {
     url: "https://soundcloud.com/patchymate/babyur2nice-1",
-    answer: "patchymate - babyur2nice",
+    answer: "patchymate - babyur2nice"
   },
   {
     url: "https://soundcloud.com/patchymate/i-wish-it-didnt-hurt-when-you-say-youre-proud-of-me",
-    answer: "patchymate - i wish it didn't hurt when you say you're proud of me",
+    answer: "patchymate - i wish it didn't hurt when you say you're proud of me"
   },
   {
     url: "https://soundcloud.com/maxrrss/summer-nights",
-    answer: "maxrrss - summer nights",
+    answer: "max ruben - summer nights"
   },
   {
     url: "https://soundcloud.com/maxrrss/strength",
-    answer: "maxrrss - strength",
+    answer: "max ruben - strength"
   },
   {
     url: "https://soundcloud.com/maxrrss/talk-roku",
-    answer: "maxrrss - talk",
+    answer: "max ruben - talk"
   },
+  {
+    url: "https://soundcloud.com/maxrrss/falling",
+    answer: "max ruben - falling"
+  }
 ];
 originalLength = songs.length;
 shuffle(songs);
