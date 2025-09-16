@@ -3629,7 +3629,7 @@ var app = (function () {
       c() {
         (n = w("div")),
           (n.innerHTML =
-            '<p class="mb-3">A fork/clone of Heardle, that have songs of my choosing.</p> \n\n<p class="mb-3">Songs are selected from from my playlist and overall music taste, which is usually some more obscure artists.</p> \n\n\n\n<p class="text-xs mb-3 text-custom-line">Uses <a href="https://soundcloud.com">Soundcloud</a> to play. Created by <a href="/">ditpowuh</a>.</p>'),
+            '<p class="mb-3">A fork/clone of Heardle, that have songs of my choosing.</p> \n\n<p class="mb-3">Songs are selected from from my playlist and overall music taste, which is usually some more obscure artists.</p> \n\n\n\n<p class="text-xs mb-3 text-custom-line">Uses <a href="https://soundcloud.com">Soundcloud</a> to play. Created by <a href="https://ditpowuh.com">ditpowuh</a>.</p>'),
           M(n, "class", "text");
       },
       m(e, t) {
